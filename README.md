@@ -25,6 +25,8 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 
 ### 🚀 Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -49,8 +51,8 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 
 ## 🌐 Connect with Me
 - 🌍 Portfolio: [Your Portfolio Link](https://your-portfolio-link.com)
-- 💬 LinkedIn: [Sagar Subedi](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/sagar-subedi)
+- 💬 LinkedIn: [Sagar Subedi](https://www.linkedin.com/in/sagar-subedi-a55671190/)
+- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/sagar0subedi)
 - 📧 Email: [your-email@example.com](mailto:sagarxic@example.com)
 
 ---
@@ -66,7 +68,7 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 
 ## 🎨 Contributions & Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SagarSubedi&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sagar-subedi&theme=radical)
 
 ---
 
