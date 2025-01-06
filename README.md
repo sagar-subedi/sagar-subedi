@@ -1,6 +1,6 @@
 # Hi there, I'm Sagar Subedi! 👋
 
-![Banner](https://your-banner-image-link.com) <!-- Replace with a cool banner -->
+![github-banner](https://github.com/user-attachments/assets/6fd1a4ce-7166-4c0c-b9ad-40d5fc91ebb4) <!-- Replace with a cool banner -->
 
 I’m a **Software Engineer** passionate about crafting elegant solutions, learning cutting-edge technologies, and sharing knowledge. Welcome to my GitHub profile! 🚀
 
@@ -18,18 +18,17 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,15 +51,15 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 ## 🌐 Connect with Me
 - 🌍 Portfolio: [Your Portfolio Link](https://your-portfolio-link.com)
 - 💬 LinkedIn: [Sagar Subedi](https://www.linkedin.com/in/sagar-subedi-a55671190/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/sagar0subedi)
-- 📧 Email: [your-email@example.com](mailto:sagarxic@example.com)
+- 🐦 Twitter: [@sagar0subedi](https://twitter.com/sagar0subedi)
+- 📧 Email: [sagarxic@gmail.com](mailto:sagarxic@example.com)
 
 ---
 
 ## 🏆 Fun Stuff!
 - 📌 My top repositories:
-    - [My Cool Project 1](https://github.com/your-repo-link)  
-    - [Another Cool Repo](https://github.com/another-repo)  
+    - [Litcord](https://github.com/sagar-subedi/litcord)  
+    - [Distributed Nursery Store](https://github.com/sagar-subed/distributed-nursery-store)  
 - 🌱 Fun Fact: I love hiking and discovering the beauty of nature 🌄.  
 - 🎮 Hobbies: Gaming, traveling, and reading tech blogs.  
 
