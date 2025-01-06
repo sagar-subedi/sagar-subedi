@@ -59,7 +59,7 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 ## 🏆 Fun Stuff!
 - 📌 My top repositories:
     - [Litcord](https://github.com/sagar-subedi/litcord)  
-    - [Distributed Nursery Store](https://github.com/sagar-subed/distributed-nursery-store)  
+    - [Distributed Nursery Store](https://github.com/sagar-subedi/distributed-nursery-store)  
 - 🌱 Fun Fact: I love hiking and discovering the beauty of nature 🌄.  
 - 🎮 Hobbies: Gaming, traveling, and reading tech blogs.  
 
