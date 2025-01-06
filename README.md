@@ -49,7 +49,7 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 ---
 
 ## 🌐 Connect with Me
-- 🌍 Portfolio: [Your Portfolio Link](https://your-portfolio-link.com)
+- 🌍 Portfolio: [My Portfolio](https://portfolio.sagar88.com.np)
 - 💬 LinkedIn: [Sagar Subedi](https://www.linkedin.com/in/sagar-subedi-a55671190/)
 - 🐦 Twitter: [@sagar0subedi](https://twitter.com/sagar0subedi)
 - 📧 Email: [sagarxic@gmail.com](mailto:sagarxic@example.com)
@@ -67,7 +67,7 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 
 ## 🎨 Contributions & Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sagar-subedi&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagar-subedi&theme=radical)
 
 ---
 
