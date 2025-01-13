@@ -49,7 +49,7 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 ---
 
 ## 🌐 Connect with Me
-- 🌍 Portfolio: [My Portfolio](https://portfolio.sagar88.com.np)
+- 🌍 Portfolio: [My Portfolio](https://sagar88.com.np)
 - 💬 LinkedIn: [Sagar Subedi](https://www.linkedin.com/in/sagar-subedi-a55671190/)
 - 🐦 Twitter: [@sagar0subedi](https://twitter.com/sagar0subedi)
 - 📧 Email: [sagarxic@gmail.com](mailto:sagarxic@example.com)
