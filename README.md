@@ -66,9 +66,6 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 ---
 
 ## 🎨 Contributions & Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagar-subedi&theme=radical)
-
 <div align=center> 
   <h2>📊 Stats</h2>
   <img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=algolia"></br>
