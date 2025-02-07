@@ -44,6 +44,12 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagar-subedi&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-subedi" alt="GitHub Streak" width="48%" />
+  <img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=algolia"></br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-subedi&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-subedi&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-subedi&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar-subedi&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagar-subedi&theme=algolia">
 </div>
 
 ---
@@ -61,20 +67,8 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
     - [Litcord](https://github.com/sagar-subedi/litcord)  
     - [Distributed Nursery Store](https://github.com/sagar-subedi/distributed-nursery-store)  
 - 🌱 Fun Fact: I love hiking and discovering the beauty of nature 🌄.  
-- 🎮 Hobbies: Gaming, traveling, and reading tech blogs.  
-
----
-
-## 🎨 Contributions & Activity Graph
-<div align=center> 
-  <h2>📊 Stats</h2>
-  <img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=algolia"></br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-subedi&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-subedi&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-subedi&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar-subedi&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagar-subedi&theme=algolia">
-</div>
+- 🎮 Hobbies: Gaming, traveling, and reading tech blogs.
+  
 ---
 
 ⭐️ Inspired by amazing GitHub profiles like yours. Let's connect and collaborate! 🌟
