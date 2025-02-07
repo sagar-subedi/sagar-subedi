@@ -69,6 +69,15 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagar-subedi&theme=radical)
 
+<div align=center> 
+  <h2>📊 Stats</h2>
+  <img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=algolia"></br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-subedi&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-subedi&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-subedi&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar-subedi&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagar-subedi&theme=algolia">
+</div>
 ---
 
 ⭐️ Inspired by amazing GitHub profiles like yours. Let's connect and collaborate! 🌟
