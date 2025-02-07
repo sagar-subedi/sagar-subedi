@@ -43,7 +43,6 @@ I’m a **Software Engineer** passionate about crafting elegant solutions, learn
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-subedi&theme=algolia">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar-subedi&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-subedi&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-subedi&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar-subedi&theme=algolia">
